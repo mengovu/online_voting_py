@@ -1,5 +1,6 @@
 # Online Voting System
 
+
 This is a simple online voting system built with Python and Flask.
 
 ## How to Run the Project
