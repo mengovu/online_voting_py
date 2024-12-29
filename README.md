@@ -1,6 +1,5 @@
 # Online Voting System
 
-
 This is a simple online voting system built with Python and Flask (Netflix theme).
 
 ## How to Run the Project
